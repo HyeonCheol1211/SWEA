@@ -4,6 +4,7 @@ import java.io.*;
 
 public class prac {
     public static void main(String[] args) throws Exception {
-        System.out.println("123");
+        int a = 7 / 2;
+        System.out.println(a);
     }
 }
