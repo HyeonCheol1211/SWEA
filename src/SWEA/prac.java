@@ -4,7 +4,10 @@ import java.io.*;
 
 public class prac {
     public static void main(String[] args) throws Exception {
-        int a = 7 / 2;
-        System.out.println(a);
+        int a = 9;
+        char tem, b='0';
+        tem = (char)((char)a + b);
+
+        System.out.println(tem);
     }
 }
